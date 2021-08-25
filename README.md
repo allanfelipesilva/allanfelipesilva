@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @allanfelipesilva
-- 👀 I’m interested in Java, nodejs and typescript
+- 👀 I’m interested in Java, Node.js and TypeScript
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me twitter @allanfelipe
